@@ -1,0 +1,2 @@
+This repo contains all python hackerrank solution.
+Code in this repo is from basic level to advanced level by which we can learn easily.
